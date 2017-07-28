@@ -1,3 +1,4 @@
-# poke_d3
+# Pokemon_Data_Viz
+Course project for MSIA411: Data Visualization
 
-link to view live site:  https://dufontaine.github.io/poke_d3/
+Link to view live site:  https://dyfontaine.github.io/Pokemon_Data_Viz/
