@@ -1,5 +1,7 @@
 # Pokemon_Data_Viz
-Course project for MSIA411: Data Visualization by Dylan Fontaine and Dustin Fontaine.
+Course project for MSIA411: Data Visualization
+
+Team Members: Dylan Fontaine, Dustin Fontaine
 
 Link to view live site:  https://dyfontaine.github.io/Pokemon_Data_Viz/
 
