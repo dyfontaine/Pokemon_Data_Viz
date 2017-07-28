@@ -5,7 +5,7 @@ var radarData = [];
 var teamMode = false;
 
 //read csv of pokemon stats, types, and gifs
-d3.csv("pokeSTATS.csv", function(loadedData) {
+d3.csv("data/pokeSTATS.csv", function(loadedData) {
     dataset = loadedData;
     //console.log(rowToJSON(dataset[1]));
     createDD(dataset); //create dropdown
