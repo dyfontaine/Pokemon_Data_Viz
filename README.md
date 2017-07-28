@@ -3,7 +3,7 @@ Course project for MSIA411: Data Visualization
 
 Link to view live site:  https://dyfontaine.github.io/Pokemon_Data_Viz/
 
-### Files
+### File Descriptions
 **css/PokemonGB.ttf:** font used from original Pokemon gameboy games
 
 **css/Radar.css:** styles used for radar chart that I found online
